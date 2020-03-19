@@ -1,0 +1,794 @@
+Milan, Italy	45.473702	9.170685	success
+Miami Beach, FL, USA	25.816755	-80.139175	success
+Amsterdam, Netherlands	52.37243	4.89973	success
+New York, NY, USA	40.68295	-73.9708	success
+Milan, Italy	45.473702	9.170685	success
+Berlin, Germany	52.52045	13.40732	success
+Los Angeles, CA, USA	34.05513	-118.25703	success
+Copenhagen, Denmark	55.704438	12.502119	success
+Italy	44.732552	11.077303	success
+London, England, United Kingdom	51.509648	-0.099076	success
+United States	39.715956	-96.999668	success
+Sesto, Italy	45.53442	9.24179	success
+London, England, United Kingdom	51.509648	-0.099076	success
+Rio de Janeiro, Brazil	-22.935024	-43.518246	doubt
+Dusseldorf, Germany	51.226297	6.801324	success
+Angera, Italy	45.775201	8.586544	success
+Lugano, Switzerland	46.009425	8.941339	success
+Monza E Della Brianza, Italy	45.638771	9.255311	doubt
+Padenghe sul Garda, Italy	45.502585	10.508802	success
+Surfers Paradise, QLD, Australia	-28.002487	153.429737	doubt
+Italy	44.732552	11.077303	success
+Brescia, Italy	45.653096	10.319575	doubt
+Pesaro, Italy	43.900696	12.896233	success
+Lombardy, Italy	45.620643	9.76908	doubt
+Cassolnovo, Italy	45.365418	8.807618	success
+Firenze, Italy	43.817726	11.370028	doubt
+Italy	44.732552	11.077303	success
+Italy	44.732552	11.077303	success
+Montreal, QC, Canada	45.572744	-73.586295	success
+Bari, Italy	40.941115	16.742495	doubt
+Italy	44.732552	11.077303	success
+Monaco	43.735797	7.422981	doubt
+Manchester, England, United Kingdom	53.462761	-2.216665	doubt
+Madrid, Spain	40.429913	-3.669245	success
+Rho, Italy	45.524357	9.039451	success
+Bergamo, Italy	45.817733	9.74896	doubt
+Paris, France	48.859116	2.331839	success
+Boston, MA, USA	42.355492	-71.048611	success
+Maloja, Switzerland	46.463793	9.834977	doubt
+Udine, Italy	46.086267	13.199743	doubt
+Rio de Janeiro, Brazil	-22.935024	-43.518246	success
+Pietrasanta, Italy	43.960681	10.223121	success
+Rome, Italy	41.878243	12.52809	success
+United Kingdom and Missionary Baptist Church, Detroit, MI, USA	42.34473	-83.085296	doubt
+San Colombano al Lambro, Italy	45.183681	9.487824	success
+United Kingdom	52.418788	-1.247349	success
+Saronno, Italy	45.624805	9.035926	success
+Nice, France	43.713667	7.264625	success
+Brussels, ON, Canada	43.741346	-81.251556	doubt
+Lisbon, Portugal	38.748243	-9.140093	success
+Lodi, Italy	45.210064	9.604263	doubt
+Saint Petersburg, Russia	59.911039	30.340232	success
+Milan, Italy	45.473702	9.170685	doubt
+Marcallo con Casone, Italy	45.484853	8.87124	success
+Monza, Italy	45.581513	9.264031	success
+Palermo, Italy	38.128635	13.334865	success
+Ibiza Town, Spain	38.908487	1.431386	success
+United Kingdom	52.418788	-1.247349	success
+Como, Italy	45.984359	9.157301	doubt
+Piedmont, Italy	45.06052	7.923222	doubt
+Piedmont, Italy	45.06052	7.923222	doubt
+Monza, Italy	45.581513	9.264031	success
+Paris, France	48.859116	2.331839	success
+São Paulo, Brazil	-23.570533	-46.663713	success
+Geneva, Switzerland	46.191574	6.131497	success
+Genoa, Italy	44.42332	8.879033	success
+Toronto, ON, Canada	43.64877	-79.38171	success
+Monaco	43.735797	7.422981	doubt
+Verano Brianza, Italy	45.689684	9.228798	success
+Guadalajara, Mexico	20.673618	-103.351266	success
+Calice Ligure, Italy	44.206823	8.293675	success
+Dublin, Ireland	53.33928	-6.281314	success
+Segrate, Italy	45.498464	9.294403	success
+Cremona, Italy	45.217442	9.955595	success
+Mahon, Spain	39.886087	4.261187	success
+Shanghai, China	31.246027	121.483385	success
+Manduria, Italy	40.400462	17.633712	success
+Gardone Riviera, Italy	45.621398	10.561398	success
+Vimodrone, Italy	45.512419	9.286684	success
+London, England, United Kingdom	51.509648	-0.099076	success
+Linz, Austria	48.284136	14.306943	success
+Barcelona, Spain	41.400347	2.159592	success
+Dubai, United Arab Emirates	25.25817	55.30472	success
+Acquaviva, Italy	43.11455	11.867062	success
+London, England, United Kingdom	51.509648	-0.099076	success
+Sanremo, Italy	43.81906	7.761356	success
+Volterra, Italy	43.400659	10.861114	success
+Cagliari, Italy	39.448797	9.244645	doubt
+Moscow, Russia	55.741469	37.615561	success
+Brugherio, Italy	45.550339	9.29546	success
+Piedmont, Italy	45.06052	7.923222	doubt
+Como, Italy	45.984359	9.157301	success
+Reggio Nell'Emilia, Italy	44.621404	10.588581	doubt
+Madrid, Spain	40.429913	-3.669245	success
+Praia a Mare, Italy	39.905421	15.779108	success
+Milano Porta Romana, Milan, Italy	45.445917	9.213786	success
+San Miguel de Allende, Mexico	20.914137	-100.750255	success
+Pavia, Italy	45.105898	9.116235	doubt
+Occimiano, Italy	45.059881	8.507157	success
+Milano Porta Romana, Milan, Italy	45.445917	9.213786	success
+Lombardy, Italy	45.620643	9.76908	doubt
+France	46.698481	2.549047	success
+City of Tallahassee Your Own Utilities, Tallahassee, FL, USA	30.446113	-84.282738	success
+Italy	44.732552	11.077303	success
+Emilia-Romagna, Italy	44.525646	11.038147	doubt
+Venezia, Italy	45.581192	12.561157	doubt
+Frascati, Italy	41.807777	12.679033	success
+Morocco	31.649504	-7.189711	doubt
+Parabiago, Italy	45.556078	8.945584	success
+Biassono, Italy	45.628835	9.272179	success
+London, England, United Kingdom	51.509648	-0.099076	success
+Morocco	31.649504	-7.189711	doubt
+Lucca, Italy	44.01511	10.412966	doubt
+Cesano Boscone, Italy	45.43871	9.098186	success
+Cassina de' Pecchi, Italy	45.517756	9.362081	success
+Vigevano, Italy	45.315809	8.858918	success
+Lecco, Italy	45.976145	9.386651	doubt
+Veneto, Italy	45.65135	11.858324	doubt
+Northwood, London, England, United Kingdom	51.613382	-0.427101	doubt
+Bologna, Italy	44.498216	11.426021	doubt
+Ostuni, Italy	40.725235	17.578319	success
+Segrate, Italy	45.498464	9.294403	success
+Lecco, Italy	45.976145	9.386651	doubt
+Assago, Italy	45.407182	9.12679	success
+germano.ragosta@gmail.com	failed	failed	failed
+Villa, Italy	46.067302	8.263606	success
+Montorio, Italy	45.463973	11.065301	success
+Baranzate, Italy	45.528529	9.115001	success
+Naples, Italy	40.862838	14.237375	success
+Scuola secondaria di primo grado G.B. Rubini, Romano di Lombardia, Italy	45.529133	9.753511	success
+Sta Margherita, Italy	44.3361	9.20923	success
+Zinasco, Italy	45.129533	9.030505	success
+Mandello del Lario, Italy	45.920602	9.318935	success
+Switzerland	46.730219	7.509687	success
+Busto Arsizio, Italy	45.612575	8.844692	success
+Lecce, Italy	40.182912	18.214653	doubt
+Aprilia, Italy	41.592567	12.648081	success
+Seregno, Italy	45.649996	9.20247	success
+Brighton, England, United Kingdom	50.830346	-0.169974	success
+Oberstrass, Zurich, Switzerland	47.385345	8.548751	doubt
+Masate, Italy	45.569378	9.464896	success
+Pavia, Italy	45.105898	9.116235	doubt
+Sankt Peter bei Graz, Graz, Austria	47.048936	15.478186	doubt
+Settimo Milanese, Italy	45.484934	9.054655	success
+Vicenza, Italy	45.71338	11.449181	doubt
+Trieste, Italy	45.686696	13.791014	doubt
+Sydney, NSW, Australia	-34.035875	151.194191	success
+Italy	44.732552	11.077303	success
+Catania, Italy	37.696228	15.010977	doubt
+Doha, Qatar	25.248856	51.560016	doubt
+Castellania, Italy	44.798592	8.929849	success
+Manduria, Italy	40.400462	17.633712	success
+Sesto, Italy	45.53442	9.24179	success
+Corso San Gottardo, Milan, Italy	45.449687	9.179807	doubt
+Arese, Italy	45.550505	9.07561	success
+Paullo, Italy	45.418895	9.401125	success
+Hamburg, Germany	53.576158	10.007046	success
+City of Plymouth, England, United Kingdom	50.399613	-4.124938	doubt
+Brussels, WI, USA	44.719135	-87.580459	success
+Siena, Italy	43.30831	11.330078	doubt
+Desenzano del Garda, Italy	45.468356	10.533908	success
+Arona, Italy	45.750829	8.559081	success
+Basiglio, Italy	45.360893	9.15871	success
+Milano, TX, USA	30.71016	-96.857387	success
+Varese, Italy	45.830536	8.750857	doubt
+Varese, Italy	45.830536	8.750857	doubt
+Brescia, Italy	45.653096	10.319575	doubt
+Leipzig, Germany	51.341053	12.404024	success
+San Francisco, CA, USA	37.778008	-122.431272	success
+Lecce, Italy	40.182912	18.214653	doubt
+Stockholm, Sweden	59.275254	18.035164	success
+Soller, Spain	39.767345	2.715649	success
+Taibon Agordino, Italy	46.304251	11.953419	success
+Robbio, Italy	45.290457	8.594096	success
+Canada	58.33747	-112.384858	doubt
+Italy	44.732552	11.077303	success
+London, England, United Kingdom	51.509648	-0.099076	success
+Varese, Italy	45.830536	8.750857	doubt
+Manciano, Italy	42.588008	11.517878	success
+Arenzano, Italy	44.400747	8.678362	success
+Dubrovnik, Croatia	42.653194	18.082991	success
+Antananarivo Atsimondrano, Madagascar	-19.030448	47.516943	success
+Venezia, Italy	45.581192	12.561157	doubt
+San Colombano al Lambro, Italy	45.183681	9.487824	success
+Cavareno, Italy	46.407686	11.140479	success
+Paripueira, Brazil	-9.438819	-35.594819	doubt
+Toscany, Italy	43.450842	11.126243	doubt
+London, England, United Kingdom	51.509648	-0.099076	success
+San Cataldo, Italy	37.48269	13.987681	success
+Berkeley, CA, USA	37.865832	-122.297864	success
+Magenta, Italy	45.46536	8.885424	success
+Cusano Milanino, Italy	45.555695	9.182352	success
+Avola, Italy	36.908229	15.138942	success
+Milano, Italy	45.447319	9.118788	doubt
+Vimercate, Italy	45.612889	9.367858	success
+Abruzzo, Italy	42.22745	13.854871	doubt
+Bagno, Italy	40.736983	13.942154	success
+Bari, Italy	40.941115	16.742495	doubt
+Imperia, Italy	43.968955	7.834399	doubt
+Cuvio, Italy	45.897521	8.731269	success
+Cormano, Italy	45.546117	9.166774	success
+Constantinople, Turkey	41.01384	28.94966	success
+Mozzate, Italy	45.676139	8.955286	success
+Switzerland	46.730219	7.509687	success
+Vanzago, Italy	45.52966	8.989431	success
+San Giorgio Piacentino, Italy	44.950049	9.738537	success
+Marbella, Spain	36.498093	-4.957119	success
+Marseille, France	43.295314	5.401581	success
+Lombardy, Italy	45.620643	9.76908	doubt
+Bollate, Italy	45.54532	9.117556	success
+Bitonto, Italy	41.109194	16.69415	success
+Miami, FL, USA	25.766368	-80.210268	success
+Bedigliora, Switzerland	46.006519	8.840688	success
+São Paulo, Brazil	-22.154376	-48.428808	success
+Legnano, Italy	45.596345	8.916808	success
+Indio, CA, USA	33.724094	-116.217581	success
+Cernusco sul Naviglio, Italy	45.52048	9.325769	success
+Merate, Italy	45.696053	9.414636	success
+Veneto, Italy	45.65135	11.858324	doubt
+Royal Tunbridge Wells, England, United Kingdom	51.13155	0.263359	success
+Thasos, Greece	40.68531	24.65323	success
+Gavi, Italy	44.686384	8.80726	success
+Modena, Italy	44.569078	10.923088	doubt
+Hong Kong, Hong Kong	22.28552	114.15769	success
+Sondalo, Italy	46.329496	10.326091	success
+Ville, France	48.341686	7.294629	doubt
+Colazza, Italy	45.781025	8.502668	success
+Lombardy, Italy	45.620643	9.76908	doubt
+Tel Aviv, Israel	32.072773	34.804786	doubt
+Constantinople, Turkey	41.01384	28.94966	success
+Baranzate, Italy	45.528529	9.115001	success
+Buccinasco, Italy	45.419887	9.114911	success
+Panicarola, Italy	43.06667	12.08333	doubt
+Courmayeur, Italy	45.794191	6.969927	success
+Aachen, Germany	50.774209	6.08443	success
+Casciana Terme, Italy	43.526097	10.617157	success
+Chiavari, Italy	44.321137	9.321504	success
+Padova, Italy	45.311817	11.813992	doubt
+Rome, GA, USA	34.260612	-85.172951	success
+Hong Kong, Hong Kong	22.28552	114.15769	doubt
+Saronno, Italy	45.624805	9.035926	success
+Messina, Italy	38.020256	15.199567	doubt
+Australia	-23.992438	134.050443	success
+Oberstrass, Zurich, Switzerland	47.385345	8.548751	doubt
+Verona, Italy	45.429044	11.042676	doubt
+Lombardy, Italy	45.620643	9.76908	doubt
+Baricella, Italy	44.646213	11.534509	success
+Dalmine, Italy	45.645498	9.602523	success
+Tornaco, Italy	45.354698	8.71962	success
+Noale, Italy	45.546864	12.072172	success
+Slovakia	48.752408	19.201811	doubt
+Zibido San Giacomo, Italy	45.366875	9.115944	success
+Venegono Superiore, Italy	45.754445	8.89688	success
+San Juan, Puerto Rico	18.402821	-66.05817	success
+Beirut, Lebanon	33.88894	35.49442	success
+Marina di Ravenna, Italy	44.486916	12.278221	success
+Legnano, Italy	45.596345	8.916808	success
+Krakow, Poland	50.052652	19.987345	success
+Sardinia, Italy	40.087837	9.030746	doubt
+Cimitero di Maranello, Maranello, Italy	44.518384	10.861142	doubt
+Carnate, Italy	45.649659	9.377924	success
+Sirmione, Italy	45.48084	10.616039	success
+Salice, Italy	44.914474	9.023404	success
+Lissone, Italy	45.610543	9.242584	success
+Avellino, Italy	40.964464	15.127077	doubt
+Seregno, Italy	45.649996	9.20247	success
+Siena, Italy	43.30831	11.330078	doubt
+Chioggia, Italy	45.204315	12.292248	success
+London, England, United Kingdom	51.509648	-0.099076	success
+Sorrento, Italy	40.62541	14.376672	success
+Melzo, Italy	45.500273	9.422588	success
+Cornaredo, Italy	45.499131	9.025637	success
+Austria	47.522617	14.143702	success
+Barasso, Italy	45.839975	8.758777	success
+London, England, United Kingdom	51.509648	-0.099076	success
+Caserta, Italy	41.193538	14.153615	doubt
+Gallarate, Italy	45.655767	8.792795	success
+Sondrio, Gera, Italy	46.170289	9.371235	doubt
+Monaco	43.739652	7.398291	doubt
+Trezzano sul Naviglio, Italy	45.424121	9.065862	success
+Voghera, Italy	44.991171	9.009182	success
+Bolzano/Bozen, Italy	46.685698	11.400573	doubt
+Switzerland	46.730219	7.509687	success
+Mariano, Italy	45.693547	9.184276	success
+Abbiategrasso, Italy	45.396677	8.916671	success
+Lucca, Italy	44.01511	10.412966	doubt
+Lomagna, Italy	45.665308	9.375373	success
+Salerno, Italy	40.401559	15.275926	doubt
+Opio, France	43.665555	6.978396	success
+Cerro al Lambro, Italy	45.329507	9.340738	success
+Battuda, Italy	45.275511	9.067076	success
+Auckland, New Zealand	-36.905451	174.672404	success
+Paderno Dugnano, Italy	45.565971	9.168361	success
+Conegliano, Italy	45.88172	12.301226	success
+Pioltello, Italy	45.487745	9.321377	success
+Iceland	64.779262	-18.673522	doubt
+Beausoleil, France	43.747619	7.428634	success
+Burago di Molgora, Italy	45.594628	9.380783	success
+Pino Torinese, Italy	45.039194	7.773848	success
+Russia	63.314401	93.884016	success
+Domaso, Italy	46.152766	9.333105	success
+Barbados	13.144115	-59.555728	success
+Sassari, Italy	40.621947	8.696393	doubt
+Chiasso, Switzerland	45.832322	9.029056	success
+Fabbrico, Italy	44.872185	10.808303	success
+Milan, Italy	45.473702	9.170685	success
+United States	39.715956	-96.999668	success
+Perpignan, France	42.696748	2.893311	success
+Luino, Italy	45.998841	8.750257	success
+Canino, Italy	42.46443	11.751787	success
+La Spezia, Italy	44.215968	9.730802	doubt
+Campiglia, Italy	43.058818	10.613838	success
+Lacchiarella, Italy	45.330819	9.140154	success
+China	32.523743	106.431983	success
+Bogotá, Colombia	4.60971	-74.08175	doubt
+Rapallo, Italy	44.350274	9.225841	success
+Porto Sant'Elpidio, Italy	43.258319	13.755352	success
+South Korea Seoul Yongsan-gu Seoul	37.539619	127.009676	success
+Apulia, Italy	40.984439	16.619622	doubt
+Vinovo, Italy	44.947236	7.630595	success
+Warsaw, Poland	52.237695	21.005427	success
+Milan, Italy	45.473702	9.170685	success
+Gela, Italy	37.073537	14.245971	success
+Oxford, England, United Kingdom	51.740769	-1.217713	success
+Helsinki, Finland	60.20787	24.99935	success
+Trentino-Alto Adige/South Tyrol, Italy	46.441452	11.282123	doubt
+Germany	51.196755	9.62743	success
+Padova, Italy	45.311817	11.813992	doubt
+Trapani, Italy	37.838771	12.712036	doubt
+Catanzaro, Italy	38.896616	16.484205	doubt
+Pioltello, Italy	45.487745	9.321377	success
+Cologno Monzese, Italy	45.533244	9.277138	success
+Milan, Italy	45.473702	9.170685	success
+Magenta, Italy	45.46536	8.885424	success
+Garbagnate Milanese, Italy	45.571821	9.077	success
+Vacallo, Switzerland	45.848174	9.036732	success
+Champorcher, Italy	45.611889	7.597439	success
+Macerata, Italy	43.204651	13.232658	doubt
+Toscany, Italy	43.450842	11.126243	doubt
+Pieve di Soligo, Italy	45.899861	12.170174	success
+Sardinia, Italy	40.087837	9.030746	doubt
+Ravenna, Italy	44.442336	11.967637	doubt
+Muggiò, Italy	45.592673	9.227921	success
+Gragnano, Italy	40.697235	14.514011	success
+Treviso, Italy	45.800135	12.249921	doubt
+Desio, Italy	45.619912	9.206411	success
+Cittadella, Verona, Italy	45.43855	10.993701	doubt
+Monaco	43.739652	7.398291	doubt
+Sesto, Italy	43.832958	11.200737	success
+New Orleans, LA, USA	30.056708	-89.889852	success
+Piedmont, Italy	45.06052	7.923222	doubt
+San Diego, CA, USA	32.72793	-117.15529	success
+Girifalco, Italy	38.823553	16.424547	success
+Assago, Italy	45.407182	9.12679	success
+Parmezzana Calzana, Italy	45.63407	10.09746	success
+Institutional District, Worcester, MA, USA	42.27426	-71.802571	doubt
+Lusaka, Zambia	-15.40669	28.28713	success
+Savona, Italy	44.295891	8.290096	doubt
+Grosseto, Italy	42.743942	11.300655	doubt
+Athens, Greece	37.988579	23.728541	success
+Rozzano, Italy	45.382542	9.158243	success
+Morbegno, Italy	46.135969	9.570109	success
+Tokyo, Japan	35.695126	139.75391	doubt
+Liepaja, Latvia	56.546878	21.035109	doubt
+Biella, Italy	45.574456	8.099184	doubt
+Bellizzi, Italy	40.620439	14.95063	success
+Leer, Germany	53.236557	7.466798	success
+Setauket-East Setauket, NY, USA	40.940223	-73.110443	success
+Madesimo, Italy	46.468026	9.330672	success
+Liverpool, England, United Kingdom	53.402639	-2.935346	doubt
+United Arab Emirates	23.47438	54.576046	success
+Cologno Monzese, Italy	45.533244	9.277138	success
+Statte, Italy	40.566548	17.210077	success
+A Coruña, Spain	43.036706	-8.531503	doubt
+Venegono Inferiore, Italy	45.736989	8.892909	success
+Tell Afif, Israel	32.066947	34.766268	doubt
+Giussano, Italy	45.698535	9.211554	success
+Landriano, Italy	45.312572	9.261907	success
+Maniago, Italy	46.169135	12.710557	success
+Lille, France	50.632786	3.059524	success
+Montepulciano, Italy	43.097563	11.787195	success
+Pantigliate, Italy	45.434455	9.355623	success
+Rybinsk, Russia	58.044271	38.828705	success
+Dublin, Ireland	53.33928	-6.281314	doubt
+Agazzano, Italy	44.944207	9.518164	success
+San Valentino Torio, Italy	40.79214	14.60146	success
+Quintana Roo, Mexico	19.248142	-88.424983	doubt
+Arce, Italy	41.585421	13.575065	success
+Villongo, Italy	45.668742	9.936736	success
+Israel	30.902941	34.860794	success
+Cleveland Heights, OH, USA	41.510978	-81.564146	success
+Calabria, Italy	39.067571	16.347506	doubt
+Balearic Islands, Spain	39.574052	2.91243	doubt
+Bastia Umbra, Italy	43.064077	12.525688	success
+Crema, Italy	45.362808	9.684229	success
+Bisceglie, Italy	41.238582	16.500714	success
+Kerala, India	9.791129	76.746728	doubt
+Ancona, Italy	43.580688	13.162234	doubt
+Robbiate, Italy	45.692068	9.437817	success
+San Costanzo, Italy	43.764191	13.068147	success
+Vecchiano, Italy	43.782464	10.386577	success
+Canarias, Spain	28.34136	-15.668178	doubt
+Santa Cruz de Tenerife, Spain	28.225896	-16.617658	success
+Ivanovskaya, Russia	45.27601	38.46435	success
+China	32.523743	106.431983	doubt
+Barletta-Andria-Trani, Italy	41.17836	16.171421	doubt
+Borgo San Lorenzo, Italy	43.954735	11.388508	success
+Budapest, Hungary	47.516581	19.092281	success
+Amorosi, Italy	41.203506	14.462527	success
+Palma de Mallorca, Spain	39.575748	2.656644	success
+Jambiani white sand, Tanzania	-6.336318	39.55419	doubt
+Novara, Italy	45.530079	8.549799	doubt
+Cordenons, Italy	45.983278	12.695692	success
+Cento, Italy	44.727958	11.288308	success
+Vimercate, Italy	45.612889	9.367858	success
+Porto Recanati, Italy	43.435242	13.659698	success
+Vimodrone, Italy	45.512419	9.286684	success
+Rho, Italy	45.524357	9.039451	success
+Sondrio, Italy	46.206004	9.865217	doubt
+Emilia-Romagna, Italy	44.525646	11.038147	doubt
+England, United Kingdom	52.59431	-1.461208	doubt
+Westport, MA, USA	41.592402	-71.088675	success
+Piedmont, Italy	45.06052	7.923222	doubt
+Gorgonzola, Italy	45.531109	9.405359	success
+Sart Messire Guillaume, Belgium	50.61048	4.542504	success
+Lavagna, Italy	44.308803	9.344914	success
+Camaiore, Italy	43.94243	10.300994	success
+Pistoia, Italy	43.942001	10.844791	doubt
+Melbourne, VIC, Australia	-37.825071	144.978682	success
+Lugagnano, Italy	45.432652	10.885301	success
+Ragusa, Italy	36.919123	14.677432	doubt
+Orsenigo, Italy	45.77802	9.179232	success
+Verbano-Cusio-Ossola, Italy	46.067065	8.378351	doubt
+Booking.com Boat, Amsterdam, Netherlands	52.365331	4.898357	doubt
+France	46.698481	2.549047	success
+Leuven, Belgium	50.881011	4.710309	success
+Jupiter, FL, USA	26.906457	-80.114479	success
+Meda, Italy	45.656255	9.163112	success
+Romano di Lombardia, Italy	45.523189	9.751823	success
+Stessopiano, Turin, Italy	45.069197	7.697735	doubt
+Paderno Dugnano, Italy	45.565971	9.168361	success
+Singapore, Singapore	1.316382	103.833828	success
+Sicily, Italy	37.588525	14.146425	doubt
+Appiano, Italy	45.734212	8.980197	success
+Campania, Italy	40.859792	14.840307	doubt
+Lombardy, Italy	45.620643	9.76908	doubt
+Eboli, Italy	40.61556	15.055623	success
+Casalserugo, Italy	45.317576	11.912901	success
+Rocklin, CA, USA	38.813675	-121.252589	success
+Pero, Italy	45.514364	9.080279	success
+Turin, Italy	45.059405	7.652514	success
+Parma, Italy	44.647714	10.08357	doubt
+Quarona, Italy	45.761942	8.269382	success
+traduzioni inglese->italiano, Cagliari, Italy	39.233231	9.103427	success
+Soliera, Italy	44.735739	10.923752	success
+Perugia, Italy	43.098446	12.541479	doubt
+Cortenova, Italy	45.53978	9.789339	success
+Vasto, Italy	42.119996	14.706616	success
+Novoli, Italy	40.3766	18.047411	success
+Catania, Italy	37.696228	15.010977	doubt
+Luxembourg City, Luxembourg	49.608759	6.125923	success
+Santa Cruz Cabrália, Brazil	-16.308177	-39.042259	success
+Liguria, Italy	44.264728	8.704667	doubt
+Toscany, Italy	43.450842	11.126243	doubt
+London, England, United Kingdom	51.509648	-0.099076	success
+Frankfurt, Germany	50.041821	8.584764	success
+Palau	7.497679	134.581978	doubt
+Cesate, Italy	45.59344	9.074619	success
+Firenze, Italy	43.817726	11.370028	doubt
+Trecate, Italy	45.433207	8.737291	success
+Vicenza, Italy	45.71338	11.449181	doubt
+Milan, Italy	45.473702	9.170685	success
+Munich, Germany	48.152126	11.544467	success
+Silver Spring, MD, USA	39.00197	-77.020588	success
+Gallarate, Italy	45.655767	8.792795	success
+Rovellasca, Italy	45.667038	9.051253	success
+Amsterdam, Netherlands	52.37243	4.89973	success
+Toscany, Italy	43.450842	11.126243	doubt
+Cinisello Balsamo, Italy	45.559209	9.218247	success
+Finale Ligure, Italy	44.169968	8.340655	success
+Francavilla al Mare, Italy	42.427807	14.272566	success
+Enna, Italy	37.535432	14.327575	doubt
+Saanen, Switzerland	46.489056	7.26447	success
+Milan, Italy	45.473702	9.170685	success
+Vanzago, Italy	45.52966	8.989431	success
+Pergola, Italy	43.564253	12.833617	success
+Antibes, France	43.587719	7.106732	success
+Vedelago, Italy	45.686995	12.019411	success
+Massa, Italy	44.019691	10.121134	success
+Marche, Italy	43.348225	13.137791	doubt
+Bresso, Italy	45.538009	9.195666	success
+Bonn, Germany	50.724104	7.114887	success
+L'Aquila, Italy	42.055818	13.592935	doubt
+Vellezzo Bellini, Italy	45.269418	9.101499	success
+Corsico, Italy	45.430594	9.111185	success
+Montenegro	42.782845	19.157424	doubt
+Stia, Italy	43.800084	11.711022	success
+Novate Milanese, Italy	45.540276	9.133618	success
+Guayaquil, Ecuador	-2.198442	-79.893608	success
+Cantù, Italy	45.737723	9.132671	success
+Salamanca, Spain	40.829691	-6.15737	doubt
+Mandello del Lario, Italy	45.920602	9.318935	success
+Massino Visconti, Italy	45.82293	8.541614	success
+Arezzo, Italy	43.563316	11.822197	doubt
+Isola, Milan, Italy	45.489421	9.188616	success
+Dessau, Germany	51.829379	12.2236	success
+Pau, France	43.312063	-0.352943	success
+Mediglia, Italy	45.401321	9.326082	success
+Cambridge, England, United Kingdom	52.204059	0.135671	success
+Paradiso, Switzerland	45.98824	8.948176	success
+Grosotto, Italy	46.280989	10.257919	success
+Gela, Italy	37.073537	14.245971	success
+Greece	39.78331	21.708535	doubt
+Saint-Jean-Cap-Ferrat, France	43.688869	7.329013	success
+Manfredonia, Italy	41.629888	15.91028	success
+Sumirago, Italy	45.739759	8.780159	success
+Wenzhou, China	28.012744	120.680436	success
+Licciana Nardi, Italy	44.264418	10.035941	success
+Rondissone, Italy	45.243736	7.964592	success
+Celerina/Schlarigna, Switzerland	46.514396	9.848788	success
+Dormelletto, Italy	45.73091	8.57622	success
+Partanna, Italy	37.7255	12.888303	success
+Cambiago, Italy	45.571318	9.425258	success
+Ospedaletti, Italy	43.801738	7.720536	success
+South Korea Seoul Yongsan-gu Seoul	37.539619	127.009676	success
+Fiesole, Italy	43.804435	11.290172	success
+Vigevano, Italy	45.315809	8.858918	success
+Stuttgart, Germany	48.802275	9.188624	success
+Opera, Italy	45.374403	9.212988	success
+Manzano, Italy	45.988795	13.374798	success
+Cesano Boscone, Italy	45.43871	9.098186	success
+Bogotá, Colombia	4.60971	-74.08175	doubt
+Warsaw, Poland	52.237695	21.005427	success
+Australia	-23.992438	134.050443	success
+Sala Baganza, Italy	44.715033	10.229168	success
+San Giuliano Milanese, Italy	45.398702	9.287885	success
+Brugherio, Italy	45.550339	9.29546	success
+Canton of Zurich, Switzerland	47.390129	8.661	doubt
+Pozzonovo, Italy	45.197176	11.790839	success
+Messina, Italy	38.020256	15.199567	doubt
+Midlothian, Richmond, VA, USA	37.503886	-77.505968	doubt
+Cologne, Germany	50.94718	6.934628	success
+Piedmont, Italy	45.06052	7.923222	doubt
+Copenhagen, Denmark	55.704438	12.502119	success
+São Paulo, Brazil	-23.570533	-46.663713	success
+Cermenate, Italy	45.702198	9.085609	success
+Amsterdam, Netherlands	52.37243	4.89973	success
+Mantova, Italy	45.126112	10.770506	doubt
+Kilchberg (Zh), Switzerland	47.32554	8.548915	success
+Camaiore, Italy	43.94243	10.300994	success
+Israel	30.902941	34.860794	doubt
+Livorno, Italy	43.05059	10.623993	doubt
+Constantinople, Turkey	41.01384	28.94966	success
+Peschiera Borromeo, Italy	45.441458	9.302205	success
+Monza, Italy	45.581513	9.264031	doubt
+Alessandria, Italy	44.806012	8.71768	doubt
+Novate Milanese, Italy	45.540276	9.133618	success
+The Hague, Netherlands	52.07114	4.29916	success
+Hedge End, England, United Kingdom	50.916315	-1.291674	success
+Stockholm, Sweden	59.275254	18.035164	success
+Cormano, Italy	45.546117	9.166774	success
+Italy	44.732552	11.077303	doubt
+San Benedetto Del Tronto, Italy	42.942131	13.871626	success
+Merano, Italy	46.6639	11.162179	success
+Champoluc, Italy	45.83333	7.73333	success
+Cavallasca, Italy	45.811739	9.03276	success
+Cairo, Egypt	30.06263	31.24967	success
+Verbano-Cusio-Ossola, Italy	46.067065	8.378351	doubt
+Singapore	1.357685	103.80938	success
+Loc. Iesi, Casella, Italy	44.549254	8.994746	doubt
+San Marco, Italy	41.191909	14.27776	success
+Spresiano, Italy	45.779217	12.25952	success
+Orzinuovi, Italy	45.402995	9.925678	success
+Ratnagiri, India	16.993753	73.303394	success
+San Donato Milanese, Italy	45.415795	9.266191	success
+Waterford, Ireland	52.229105	-7.598119	doubt
+Cingoli, Italy	43.374937	13.201471	success
+Francavilla Fontana, Italy	40.530673	17.583286	success
+Rennemoulin, France	48.833298	2.042295	success
+Robecco, Italy	45.438344	8.886361	success
+Zelo Buon Persico, Italy	45.410849	9.431339	success
+Feusisberg, Switzerland	47.169474	8.715725	success
+San Carlo Canavese, Italy	45.246744	7.607091	success
+Rocca Grimalda, Italy	44.680771	8.644453	success
+San Gillio, Italy	45.141202	7.536773	success
+Navarra, Spain	42.716029	-1.707935	success
+Civitanova Marche, Italy	43.304998	13.722525	success
+Angri, Italy	40.737221	14.567773	success
+South Korea Seoul Yongsan-gu Seoul	37.539619	127.009676	success
+Pergine Valsugana, Italy	46.067063	11.229393	success
+Las Vegas, NV, USA	36.190364	-115.279104	success
+Scafati, Italy	40.753183	14.527183	success
+Pointe-Noire, Congo	-4.77609	11.86352	success
+Lerici, Italy	44.077389	9.912793	success
+Piacenza, Italy	44.876973	9.613853	doubt
+Taranto, Italy	40.61415	17.247791	doubt
+Cinisello Balsamo, Italy	45.559209	9.218247	success
+Spain	40.09095	-3.464618	doubt
+Aosta, Italy	45.735574	7.325041	success
+Cura Carpignano, Italy	45.212482	9.254868	success
+Olgiate Olona, Italy	45.633975	8.887101	success
+Agrate Brianza, Italy	45.575446	9.353294	success
+Rende, Italy	39.332276	16.184566	success
+Calabria, Italy	39.067571	16.347506	doubt
+Rodano, Italy	45.475983	9.355208	success
+Sestri Levante, Italy	44.272637	9.419332	success
+Focşani, Romania	45.69839	27.183799	success
+Qiryat Tivon, Israel	32.71893	35.12456	success
+Arcugnano, Italy	45.499009	11.534769	success
+Piedmont Post Office, Piedmont, AL, USA	33.923434	-85.610239	doubt
+Höhn, Germany	50.61746	7.985067	success
+Havana, Cuba	23.133905	-82.366128	success
+Lodi, Italy	45.210064	9.604263	doubt
+Netherlands	52.554205	5.501896	success
+Hanoi, Vietnam	21.0245	105.84117	success
+Sicily, Italy	37.588525	14.146425	doubt
+Dresden, Germany	51.055604	13.731021	success
+Nairobi, Kenya	-1.28333	36.81667	success
+Prato, Italy	43.914758	11.084811	doubt
+Toscany, Italy	43.450842	11.126243	doubt
+Lombardy, Italy	45.620643	9.76908	doubt
+Monte Rio, CA, USA	38.466255	-123.016402	success
+Castellana, Italy	40.88618	17.166267	success
+Lu Bagnu, Italy	40.90121	8.686734	success
+Quarto, Italy	40.87585	14.134644	success
+Hong Kong	22.440384	114.098975	success
+Merate, Italy	45.696053	9.414636	success
+San Pietro Mosezzo, Italy	45.453856	8.544138	success
+Fano, Italy	43.839767	13.014672	success
+Crotone, Italy	39.179914	16.951172	doubt
+Matera, Italy	40.50014	16.453709	doubt
+Ascoli Piceno, Italy	42.915815	13.61559	doubt
+Boffalora sopra Ticino, Italy	45.465681	8.84568	success
+Varedo, Italy	45.597948	9.153227	success
+Genoa, Italy	44.42332	8.879033	success
+Caslano, Switzerland	45.973316	8.879281	success
+Sedriano, Italy	45.492195	8.968375	success
+Arese, Italy	45.550505	9.07561	success
+Üsküdar (Istanbul), Turkey	41.02605	29.05917	doubt
+San Nicolás de los Garza, Mexico	25.738505	-100.280753	success
+Almaty, Kazakhstan	43.25654	76.92848	success
+West Cowes, England, United Kingdom	50.76644	-1.311014	success
+Veduggio con Colzano, Italy	45.733448	9.26995	success
+Cottonwood, AZ, USA	34.734356	-112.02387	success
+Druento, Italy	45.132809	7.575605	success
+Aosta, Italy	45.735574	7.325041	success
+Luxembourg	49.759178	6.086636	doubt
+Aix-en-Provence, France	43.526046	5.44467	success
+South Korea Kyeongki-Do Uijeongbu-si	37.741987	127.044467	success
+Opera, Italy	45.374403	9.212988	success
+Erba, Italy	45.809895	9.228162	success
+Bussero, Italy	45.532781	9.372875	success
+Piove di Sacco, Italy	45.2969	12.032947	success
+Arona, Italy	45.750829	8.559081	success
+Siziano, Italy	45.31555	9.202106	success
+Cenate Sopra, Italy	45.719994	9.822279	success
+Chicago, IL, USA	41.87897	-87.66063	success
+Serino, Italy	40.855997	14.871391	success
+Albuquerque, NM, USA	35.128683	-106.579128	success
+Lissone, Italy	45.610543	9.242584	success
+Silesian Voivodeship, Poland	50.437424	18.979761	doubt
+Aci Castello, Italy	37.554222	15.14625	success
+Fossombrone, Italy	43.69495	12.819253	success
+Viareggio, Italy	43.873063	10.265816	success
+Bagno a Ripoli, Italy	43.768254	11.332613	success
+Modica, Italy	36.836804	14.767585	success
+Grosio, Italy	46.296809	10.272829	success
+Piedmont, Italy	45.06052	7.923222	doubt
+Soveria Mannelli, Italy	39.07916	16.37556	success
+Varenna, Italy	46.005945	9.284573	success
+Paternò, Italy	37.569118	14.90375	success
+General Santos City, Philippines	6.11278	125.17167	doubt
+Gaiarine, Italy	45.879543	12.480862	success
+Constantinople, Turkey	41.01384	28.94966	success
+Oslo, Norway	59.914112	10.80102	success
+San Martino in Rio, Italy	44.733086	10.783096	success
+Turkey	39.339547	34.51052	doubt
+Abbiategrasso, Italy	45.396677	8.916671	success
+Kaunas, Lithuania	54.896296	23.92186	success
+Zelo Buon Persico, Italy	45.410849	9.431339	success
+Coccaglio, Italy	45.561714	9.976139	success
+China	32.523743	106.431983	success
+Bretnig-Hauswalde, Germany	51.149994	14.058978	success
+Brazil	-11.928923	-49.542449	success
+Trani, Italy	41.26667	16.422202	success
+Maracaibo, Venezuela	10.63167	-71.64056	success
+Benevento, Italy	41.229458	14.757585	doubt
+Formigine, Italy	44.571208	10.848739	success
+Saronno, Italy	45.624805	9.035926	success
+Cayman Creperie, Cayman Islands	19.294236	-81.382648	doubt
+Lahntal, Germany	50.861243	8.704292	success
+Villa Pigna, La Pigna - Pigna Bassa, Italy	42.832538	13.631661	success
+Zibido San Giacomo, Italy	45.366875	9.115944	success
+Travedona Monate, Italy	45.803356	8.673654	success
+Settimo Milanese, Italy	45.484934	9.054655	success
+Canelli, Italy	44.717483	8.287892	success
+Connellsville, PA, USA	40.017625	-79.59207	success
+Versailles, France	48.805711	2.14319	success
+Lonato, Italy	45.461457	10.478849	success
+Sardinia, Italy	40.087837	9.030746	doubt
+Badoere, Italy	45.633437	12.085705	success
+Pescara, Italy	42.372003	13.947383	doubt
+Quintana Roo, Mexico	19.248142	-88.424983	success
+Corsico, Italy	45.430594	9.111185	success
+Milan, Italy	45.473702	9.170685	success
+Melegnano, Italy	45.360022	9.324458	success
+Alicante/Alacant, Spain	38.450686	-0.743851	doubt
+Scanzorosciate, Italy	45.716153	9.78291	success
+Vienna, Austria	48.198674	16.348388	success
+Jordan	30.802278	36.391378	success
+Osnago, Italy	45.67599	9.390784	success
+Lama, Italy	44.30873	10.733431	success
+Rivolta d'Adda, Italy	45.469728	9.513252	success
+Valle D'Aosta, Italy	45.715071	7.330579	doubt
+Albignasego, Italy	45.348167	11.865982	success
+Voghera, Italy	44.991171	9.009182	success
+Albania	40.647186	20.127352	doubt
+Santiago de Cali, Colombia	3.43722	-76.5225	success
+San Giuliano Milanese, Italy	45.398702	9.287885	success
+Reggio Calabria, Italy	38.093833	15.646482	success
+San Zenone al Lambro, Italy	45.327025	9.356214	success
+San Gimignano, Italy	43.469815	11.036167	success
+Trento, Italy	46.131509	10.880622	success
+Bagnacavallo, Italy	44.414234	11.978965	success
+Trezzo sull'Adda, Italy	45.605631	9.516268	success
+Sant'Egidio del Monte Albino, Italy	40.749518	14.600327	success
+Montecarlo, Italy	43.851939	10.669171	success
+Sirtori, Italy	45.739676	9.329511	success
+Yampil's'kyi, Ukraine	48.329277	28.358453	doubt
+Changchun, China	43.853493	125.309144	success
+Pordenone, Italy	46.110813	12.709121	doubt
+Buenos Aires, Argentina	-34.607357	-58.454595	success
+Dublin, Ireland	53.33928	-6.281314	success
+Terranova Bracciolini, Italy	43.551001	11.588255	success
+Lima, Peru	-12.04318	-77.02824	success
+Magherno, Italy	45.222437	9.327832	success
+Friedenweiler, Germany	47.893087	8.293472	success
+North Bay Village, FL, USA	25.848979	-80.153664	success
+San Donato Milanese, Italy	45.415795	9.266191	success
+Manila, Philippines	14.6042	120.9822	success
+Bremen, Germany	53.09026	8.852958	success
+Mazara del Vallo, Italy	37.657726	12.593161	success
+Gualdo Tadino, Italy	43.228386	12.781253	success
+Antwerpen, Belgium	51.222805	4.655059	doubt
+Busto Arsizio, Italy	45.612575	8.844692	success
+Pogliano Milanese, Italy	45.54482	9.010184	success
+Palermo, Buenos Aires, Argentina	-34.573855	-58.4219	success
+Catalonia, Spain	41.798469	1.528745	doubt
+Pantelleria, Italy	36.831565	11.941313	success
+Foggia, Italy	41.54389	15.517905	doubt
+Bangalore, India	12.96557	77.60625	success
+Carugate, Italy	45.551014	9.342776	success
+Marsala, Italy	37.822479	12.485841	success
+Rieti, Italy	42.356993	12.927227	doubt
+Washington, DC, USA	38.82652	-77.01712	success
+Sterzing, Italy	46.895443	11.430157	success
+Ukraine	49.219469	33.023452	success
+Ticino, Switzerland	46.331881	8.814455	doubt
+Lipari, Italy	38.490729	14.931894	success
+Foggia, Italy	41.54389	15.517905	doubt
+Cortona, Italy	43.274803	11.98684	success
+Iași, Romania	47.155155	27.588873	success
+Binasco, Italy	45.331263	9.099534	success
+Varedo, Italy	45.597948	9.153227	success
+Cremona, Italy	45.217442	9.955595	doubt
+Bellagio, Italy	45.975116	9.260471	success
+Borgo Milano, Verona, Italy	45.436777	10.963068	doubt
+Rosate, Italy	45.35204	9.017971	success
+Fougères, France	48.350807	-1.198189	success
+Silea, Italy	45.653093	12.299764	success
+Pietrasanta, Italy	43.960681	10.223121	success
+Milan, Italy	45.473702	9.170685	doubt
+Darfo Boario Terme, Italy	45.880923	10.182546	success
+Seriate, Italy	45.684672	9.721707	success
+Bereguardo, Italy	45.257388	9.027187	success
+Usmate Velate, Italy	45.649798	9.362032	success
+Veneto, Italy	45.65135	11.858324	doubt
+Tortona, Italy	44.899341	8.863769	success
+Sulbiate, Italy	45.637995	9.425131	success
+Ixelles, Brussel, Belgium	50.835549	4.366051	doubt
+Cantù, Italy	45.737723	9.132671	success
+Follonica, Italy	42.924736	10.764401	success
+Brindisi, Italy	40.612638	17.651841	doubt
+Melzo, Italy	45.500273	9.422588	success
+Bratislava, Slovakia	48.165064	17.145673	doubt
+Borca, Italy	46.437344	12.21975	success
+Acqui Terme, Italy	44.673392	8.468143	success
+Fort Wayne, IN, USA	41.113201	-85.128679	success
+Santa Eulària des Riu, Spain	38.987302	1.542442	success
+Porto San Giorgio, Italy	43.179951	13.786592	success
+Cisternino, Italy	40.740323	17.430574	success
+Trebisacce, Italy	39.867814	16.529422	success
+Toscany, Italy	43.450842	11.126243	doubt
+Montiano, Italy	44.083889	12.30528	success
